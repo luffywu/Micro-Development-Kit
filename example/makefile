@@ -32,7 +32,7 @@ OBJ_OUTPUT=./output
 CPP_DIR=
 
 #mdk安装目录
-MDK_HOME=/mnt/HYLib
+MDK_HOME=../
 
 #.h目录
 H_DIR=$(MDK_HOME)/include
