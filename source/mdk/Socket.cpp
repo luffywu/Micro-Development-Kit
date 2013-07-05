@@ -8,7 +8,7 @@
 //#include <windows.h>
 #pragma comment ( lib, "ws2_32.lib" )
 #endif
-#include <stdio.h>
+
 using namespace std;
 namespace mdk
 {
